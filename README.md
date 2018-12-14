@@ -1,3 +1,3 @@
 # resume
-A resume written using LaTex.
+A resume written in LaTex using Vim.
 Pretty excessive, right?
